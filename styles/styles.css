@@ -1,0 +1,32 @@
+html{
+    font-size:30px;
+    font-family:'roboto',sans-serif;
+    background-color:rgb(126, 169, 169);
+}
+body{
+    width:600px;
+    margin:0 auto;
+    background-color:#ff9500;
+    padding:0 20px 20px 20px;
+}
+h1{
+    font-size:60px;
+    text-align:center;
+    margin:0;
+    padding:20px 0;
+    color:aqua;
+    text-shadow:3px 3px 1px black;
+    width:500px;
+}
+p,li{
+    font-size:16px;
+    line-height:1;
+    letter-spacing:1px;
+    color:red;
+    width:500px;
+}
+img{
+    display:block;
+    margin:0 auto;
+    width:500px;
+}
